@@ -25,6 +25,14 @@ folder.
 # What does the app do?
 
 > This app is a simple CRUD demonstration app\
-> you can track what you had to ate in a given amount of days\
-> like "I ate a potato 5 days ago".
+> you can track what you had to ate in a given amount of days.\
+> like "I ate a potato 5 days ago".\
 > You can add new food to the list of foods, edit an existing one, or delete it.
+
+### For devs
+
+1. You need to run `npm install` in `client` and `server` folders.\
+   In order to install all of the needed project dependencies.
+2. To run the dev server you need to type `npm run devStart` in `server` folder which is already opened in **(MAC/Linux)Terminal/(Windows)cmd**.
+3. To run the dev server you need to type `npm start` in `client` folder which is already opened in **(MAC/Linux)Terminal/(Windows)cmd**.
+4. Have fun modifying the project.
