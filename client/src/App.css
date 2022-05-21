@@ -6,19 +6,19 @@
   align-items: center;
 }
 input {
-  width: 250px;
+  width: 230px;
   height: 35px;
   font-size: 20px;
 }
 button {
 margin-top: 2rem;
-width: 250px;
-height: 35px;
-font-size: 20px;
+width: 190px;
+height: 30px;
+font-size: 19px;
 }
 
 .food {
-  width: 400px;
+  width: 450px;
   height: 250px;
   border: 2px solid black;
   margin: 9px;
