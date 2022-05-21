@@ -1,10 +1,10 @@
 # crud-MERN-demo-app
 
 Demo **Create, Read, Update, and Delete** app with the help of\
-**M-ongoDB**
-**E-xpress**
-**R-eact**
-**N-odeJS**
+**M-ongoDB**\
+**E-xpress**\
+**R-eact**\
+**N-odeJS**\
 
 ## Front-end
 
