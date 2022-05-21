@@ -42,9 +42,10 @@ function App() {
 
       {foodList.map((val, key) => {
         return (
-          <div key={key}>
+          <div key={key} className='food'>
             <h4>Food name: {val.foodName}</h4>{" "}
-            <h4>Days since I ate it: {val.daysSinceIAte}</h4>
+            <h4>Days since I ate it: {val.daysSinceIAte} days.</h4>
+            <button>Delete</button>
           </div>
         );
       })}

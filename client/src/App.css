@@ -16,3 +16,10 @@ width: 250px;
 height: 35px;
 font-size: 20px;
 }
+
+.food {
+  width: 400px;
+  height: 250px;
+  border: 2px solid black;
+  margin: 9px;
+}
