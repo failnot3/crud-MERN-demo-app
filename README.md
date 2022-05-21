@@ -25,6 +25,6 @@ folder.
 # What does the app do?
 
 > This app is a simple CRUD demonstration app\
-> you can track what you had to ate in the given amount of days\
+> you can track what you had to ate in a given amount of days\
 > like "I ate a potato 5 days ago".
 > You can add new food to the list of foods, edit an existing one, or delete it.
