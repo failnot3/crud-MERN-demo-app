@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 mongoose.connect(
-  "mongodb+srv://dts:sUdbu1Kh9WPGw1NS@cruddemo.e69mb.mongodb.net/food?retryWrites=true&w=majority",
+  "mongodb+srv://<PutYourMongoDBAtlasAccountHere>/food?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
   }
