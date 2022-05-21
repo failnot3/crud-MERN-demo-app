@@ -31,8 +31,8 @@ folder.
 
 ### For devs
 
-1. You need to run `npm install` in `client` and `server` folders.\
-   In order to install all of the needed project dependencies.
-2. To run the dev server you need to type `npm run devStart` in `server` folder which is already opened in **(MAC/Linux)Terminal/(Windows)cmd**.
-3. To run the dev server you need to type `npm start` in `client` folder which is already opened in **(MAC/Linux)Terminal/(Windows)cmd**.
-4. Have fun modifying the project.
+1. You need to run `npm install` in `client` and `server` folders. In order to install all of the needed project dependencies.
+2. You need a MongoDB Atlas account or a local installation of MongoDB, **with a `food` database!**
+3. To run the dev server you need to type `npm run devStart` in `server` folder which is already opened in **(MAC/Linux)Terminal/(Windows)cmd**.
+4. To run the dev server you need to type `npm start` in `client` folder which is already opened in **(MAC/Linux)Terminal/(Windows)cmd**.
+5. Have fun modifying the project.
